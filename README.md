@@ -1,12 +1,10 @@
 # Divorce and break-ups analysis
 Causes of divorce and recommendation for ways to help fix broken families and marriages
+ 
+ ---
 
-
-
-
-![Instagram](https://badgen.net/badge/to/note/red) \
-I am assuming you are using mac,linux or WSL on windows. 
-If not I suggest you run the commands according to windows conmands
+##### ![Instagram](https://badgen.net/badge/to/note/red)  I am assuming you are using mac,linux or WSL on windows. 
+If not I suggest you run the commands according to windows conmands \n
 
 How to run the app:
 
